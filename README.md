@@ -26,7 +26,7 @@ C.Experimental Results
 
 D.Screenshots
 
-![image](Assignment_3/tree/master/docs/screenshots/image1.png)
+![image](Assignment_3/docs/screenshots/image1.png)
 
 E.Reflection Section
 
