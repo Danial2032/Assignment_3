@@ -26,7 +26,7 @@ C.Experimental Results
 
 D.Screenshots
 
-![image](https://github.com/Danial2032/Assignment_3/tree/master/docs/screenshots)
+![image]([https://github.com/Danial2032/Assignment_3/tree/master/docs/screenshots](https://github.com/Danial2032/Assignment_3/tree/master/docs/screenshots))
 
 E.Reflection Section
 
